@@ -19,11 +19,6 @@ This project is a hands-on demonstration of:
 
 These concepts are the foundation of **cloud security architecture**.
 
-## 🔹 Architecture Diagram
-![Architecture Diagram](./diagrams/architecture.png)
-
-*(Placeholder — replace with your diagram once created)*
-
 ## 🔹 Step-by-Step Documentation
 Each stage of the project is documented in detail with explanations and screenshots:
 
